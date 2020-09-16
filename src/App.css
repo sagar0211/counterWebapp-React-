@@ -1,0 +1,47 @@
+.App{
+  margin:0;
+}
+.head{
+  font-size: 75px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:black;
+  text-align: center;
+  background-color:aqua;
+}
+
+.counter{
+    margin:auto;
+    background-color:black;
+    color:white;
+    padding: 10px 35px;
+    padding-top: 10px;
+    font-size: 40px;
+    display:flex ;
+    justify-content:center;
+}
+
+.foot{
+  font-size: 75px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:black;
+  text-align: center;
+  background-color:lightgreen;
+}
+
+.show{
+  text-align:center;
+  color:yellow;
+  font-size: xx-large;
+}
+
+.tab{
+  margin:auto;
+  background-color: lightcoral ;
+}
+
+
+
